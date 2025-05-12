@@ -127,4 +127,6 @@ a{
     height: 50px;
     display: flex;
     background-color: rgba(0, 0, 0, 0.726);
+    background-image: url("Img/senai.png");
+    background-repeat:repeat-x;
 }
